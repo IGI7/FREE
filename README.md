@@ -10,3 +10,4 @@
 ![Скриншот_dde-desktop_20211129132156](https://user-images.githubusercontent.com/92270761/143852880-dee37394-77bf-494d-8ec2-30938983ea5b.png)
 ![Скриншот_dde-desktop_20211129132548](https://user-images.githubusercontent.com/92270761/143852890-b4630ec7-daf5-4ab9-b261-9c6d65e32122.png)
 ![Скриншот_dde-desktop_20211129132649](https://user-images.githubusercontent.com/92270761/143852900-e97356e5-7655-4c9f-a66c-a1858faf5962.png)
+![Скриншот_dde-desktop_20211129134635](https://user-images.githubusercontent.com/92270761/143854376-ca346e50-f2d4-46b1-bbb9-755642152ee4.png)
